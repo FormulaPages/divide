@@ -1,0 +1,19 @@
+{
+  "name": "formula-divide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DIVIDE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/divide.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/divide/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/divide#readme"
+}
